@@ -1,1 +1,3 @@
 # wind_data
+
+Public wind data for personal analysis. No guarantee this will be here in the future...
